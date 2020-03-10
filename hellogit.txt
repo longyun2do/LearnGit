@@ -5,3 +5,4 @@ So show me your power!
 git's information
 git is a distributed version control system.
 git is free.
+git is under GPL.
