@@ -6,4 +6,6 @@ git's information
 git is a distributed version control system.
 git is free.
 git is under GPL.
-git tracks changes.
+git tracks changes of files not files.
+
+git diff HEAD -- hellogit.txt.
