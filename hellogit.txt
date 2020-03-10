@@ -1,3 +1,7 @@
 hello git!
 In next hours,i will work with you.
 So show me your power! 
+
+git's information
+git is a distributed version control system.
+git is free.
