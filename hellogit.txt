@@ -6,3 +6,4 @@ git's information
 git is a distributed version control system.
 git is free.
 git is under GPL.
+git tracks changes.
